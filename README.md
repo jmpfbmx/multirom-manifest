@@ -7,7 +7,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the MULTI-ROM trees, use a command like this:
 
-    repo init -u git://github.com/multirom-dev/android.git -b <branch>
+    repo init -u git://github.com/jmpfbmx/multirom-manifest.git -b android-5.1
 
 Then to sync up:
 
